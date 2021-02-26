@@ -3,10 +3,12 @@
 </h1>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">License</a>
 </p>
 
 <p align="center">
@@ -23,32 +25,54 @@
   <img alt="Moveit" src=".github/icon.svg" width="120px">
 </p>
 
-## 🚀 Tecnologias
+## 🧪 Technologies
 
-Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 💻 Projeto
+## 🔥 Preview
 
-O Move.it veio para te lembrar de se exercitar sempre! 💜 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fguilhermecapitao%2Fnlw-04-reactjs-moveit)
 
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 22 a 28 de Fevereiro de 2021.
+## 🚀 Getting started
+
+Clone the project and access the folder
+
+```bash
+$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
+```
+
+Follow the steps below
+```bash
+# Install the dependencies
+$ yarn
+
+# Start the project
+$ yarn dev
+```
+
+## 💻 Project
+
+[Move.it](https://move-it-guilhermecapitao.vercel.app/) came to remind you to exercise always! 💜 
+
+This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através dos links abaixo:
+You can view the project layout through the links below:
 
 - [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0) 
 
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
 
 ---
 
-<p align="center">Desenvolvido com 💜 por Guilherme Capitão</p>
+<p align="center">Made with 💜 by Guilherme Capitão</p>
